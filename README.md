@@ -21,7 +21,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Majid+Abdelilah">「 Google Me 」</a>
     <br>
     「 I am a game engine developer and software engineering student at 1337, from <b>Morocco</b> 」
     <br>
