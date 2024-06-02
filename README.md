@@ -36,6 +36,6 @@
 <p>
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new technologies<br/><br/>
+ ❤️ &emsp; Love to write code and learning new technologies<br/><br/>
 
 </p>
