@@ -49,17 +49,9 @@ Dedicated software engineer with 11 years of programming experience, starting at
 - Implemented remote game functionality using Python, Django, JavaScript, and WebSockets
 - Scored 120/100 in evaluation
 
-### Ft_Irc
-- IRC (Internet Relay Chat) server developed in C++
-- Led development of WebSocket server implementation
-- Scored 115/100 in evaluation
-
-### MiniShell
-- Bash-like shell implemented in pure C
-- Responsible for parsing component
-- Scored 125/100 in evaluation
-
 ### Other Notable Projects
+- **MiniShell**: Bash-like shell implemented in pure C (125/100)
+- **Ft_Irc**: IRC server developed in C++ with WebSocket implementation (115/100)
 - **Inception**: Dockerized WordPress server with database
 - **Webserver**: HTTP server built with C++
 - **FDF**: 3D wireframe graphics rendering
