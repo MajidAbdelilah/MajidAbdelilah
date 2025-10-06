@@ -7,6 +7,13 @@ Dedicated software engineer with 11 years of programming experience, starting at
 
 ## Experience
 
+### Nommo
+**frontend Web & mobile application Development Intern** | *May 2025 - Nov 2025*
+- Contributing to the development of Morocco's first stock market platform
+- Building frontend applications with Next.js and React
+- Building mobile application with React native
+- Participating in the complete software development lifecycle of a fintech product
+
 ### SAMMA.app
 **Founder & Lead Developer** | *2025 - Present*
 - Developed a marketplace for Arabic indie games using TypeScript, React, and Vite
@@ -61,10 +68,15 @@ Dedicated software engineer with 11 years of programming experience, starting at
 ## Skills
 
 ### Programming Languages
-C, C++, C#, Python, JavaScript, TypeScript, GDScript, bash, tsx, html, css
+C, C++, verilog, HDL, C#, Python, JavaScript, java, TypeScript, GDScript, bash, html, css
 
 ### Frameworks & Technologies
-React, Node.js, Vite, Supabase, Vulkan, Unity, Godot, Raylib, Docker, Django, WebSockets, OneApi, SYCL
+React, Node.js, Vite, Next.js, Supabase, Vulkan, Unity, Godot, Raylib, Docker, Django, WebSockets, OneApi, SYCL
 
 ### Skills
-Game Development, Rendering Optimization, High-Performance Computing, SIMD Optimization, Web Development, Cloud Infrastructure, GPU Programming, Parallel Computing
+Game Development, Rendering Optimization, hardware design, fpga programming, High-Performance Computing, SIMD Optimization, Web Development, Cloud Infrastructure, GPU Programming, Parallel Computing
+
+### Links
+[github](https://github.com/MajidAbdelilah)
+[youtube](https://www.youtube.com/@abdolilahmajid_21)
+[HDLBits profile](https://hdlbits.01xz.net/wiki/Special:VlgStats/64D131E9FCC47300)
