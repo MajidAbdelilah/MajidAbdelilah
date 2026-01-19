@@ -6,7 +6,6 @@
 ---
 
 ## Summary
-Systems-focused software engineer with 11+ years of programming experience specializing in **GPU programming**, **3D rendering engines**, and **high-performance computing**. Contributor to open-source physics engines with measurable performance optimizations. Ranked 2nd among 300+ students at 1337 Coding School. Building SAMMA.app, an Arabic indie game marketplace.
 Systems-focused software engineer with 5 years of programming experience specializing in **GPU programming**, **3D rendering engines**, and **high-performance computing**. Contributor to open-source physics engines with measurable performance optimizations. Ranked 2nd among 300+ students at 1337 Coding School. Building SAMMA.app, an Arabic indie game marketplace.
 
 ---
@@ -79,17 +78,7 @@ Systems-focused software engineer with 5 years of programming experience special
 - Designed UART debug interface in Verilog
 - Completed HDLBits exercises demonstrating digital logic design proficiency
 
----
 
-## 42/1337 Curriculum Projects
-
-| Project | Tech | Score | Description |
-|---------|------|-------|-------------|
-| **ft_transcendence** | Python, Django, WebSockets | 120/100 | Multiplayer pong with chat, 2FA, real-time gameplay |
-| **MiniShell** | C | 125/100 | Bash-like shell with pipes, redirections, builtins |
-| **ft_irc** | C++ | 115/100 | IRC server implementation with WebSocket support |
-| **Webserver** | C++ | – | HTTP/1.1 compliant server |
-| **Cube3D** | C | – | 3D raycasting game engine |
 
 ---
 
