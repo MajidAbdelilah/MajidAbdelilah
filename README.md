@@ -7,6 +7,7 @@
 
 ## Summary
 Systems-focused software engineer with 11+ years of programming experience specializing in **GPU programming**, **3D rendering engines**, and **high-performance computing**. Contributor to open-source physics engines with measurable performance optimizations. Ranked 2nd among 300+ students at 1337 Coding School. Building SAMMA.app, an Arabic indie game marketplace.
+Systems-focused software engineer with 5 years of programming experience specializing in **GPU programming**, **3D rendering engines**, and **high-performance computing**. Contributor to open-source physics engines with measurable performance optimizations. Ranked 2nd among 300+ students at 1337 Coding School. Building SAMMA.app, an Arabic indie game marketplace.
 
 ---
 
@@ -43,6 +44,12 @@ Systems-focused software engineer with 11+ years of programming experience speci
 ---
 
 ## Featured Projects
+
+### Unreal Majid – High-Performance Particle System | Rust, WGPU
+[GitHub](https://github.com/MajidAbdelilah/Unreal_Majid)
+- Achieved **~200 FPS with 1,000,000 particles** on Intel Iris Xe, significantly outperforming previous SYCL implementation (56 FPS)
+- Fully GPU-accelerated physics using **Compute Shaders** with **WebGPU** support for browser execution
+- Implemented efficient buffer management for seamless native and WebAssembly deployment
 
 ### SCOP – 3D Object Viewer | Rust, OpenGL (Glium)
 [GitHub](https://github.com/MajidAbdelilah/scop)
@@ -89,7 +96,7 @@ Systems-focused software engineer with 11+ years of programming experience speci
 ## Technical Skills
 
 **Languages:** C, C++, Rust, Python, TypeScript, JavaScript, Verilog  
-**Graphics:** Vulkan, OpenGL, GLSL, Raylib, WebGPU  
+**Graphics:** Vulkan, OpenGL, GLSL, Raylib, WGPU  
 **Parallel Computing:** SYCL, OneAPI, SIMD, Multi-threading  
 **Web:** React, Next.js, Django, Node.js, WebSockets, Supabase  
 **Tools:** Docker, Git, Linux, Oracle Cloud  
