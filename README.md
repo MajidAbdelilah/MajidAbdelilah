@@ -45,8 +45,8 @@ Software Engineer with 5+ years of hands-on programming experience focused on gr
 
 ## PROFESSIONAL EXPERIENCE
 **Nommo — Frontend and Mobile Development Intern** | Morocco | May 2025 - Nov 2025  
-**SAMMA.app — Founder and Lead Developer** | 2025 - Present  
-**ThePhysicsGuys/Physics3D — Open-Source Contributor** | 2022
+**SAMMA.app — Founder and Lead Developer** | 2025 Jan - May 2025  
+**ThePhysicsGuys/Physics3D — Open-Source Contributor** | 2023 Feb - 2023 June
 
 ## EDUCATION
 **1337 Coding School (42 Network)** — Software Engineering | 2023 - Present  
